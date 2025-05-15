@@ -23,8 +23,14 @@ Core Technical Strengths:
 - **Backend:** Ruby on Rails, RESTful APIs, PostgreSQL
 - **Frontend:** Angular, AngularJS, JavaScript, CSS, HTML
 - **Frameworks & Tools:** Bootstrap, Git, GitHub, Webpack
-- **Others:** MVC architecture, JSON APIs, Heroku, Agile workflows
-• Ruby on Rails application development in micro-services architecture • AI integration and LLM implementation for intelligent applications • Full-stack development with Angular, JavaScript, and TypeScript • Cloud infrastructure implementation on AWS and Azure • Database optimisation with PostgreSQL and MySQL • Containerisation with Docker and orchestration with Kubernetes
+- **Others:** MVC architecture, JSON APIs, Agile workflows
+  
+-  Ruby on Rails application development in micro-services architecture
+-  AI integration and LLM implementation for intelligent applications
+-  Full-stack development with Angular, JavaScript, and TypeScript
+-  Cloud infrastructure implementation on AWS and Azure
+-  Database optimisation with PostgreSQL and MySQL
+-  Containerisation with Docker and orchestration with Kubernetes
 
 Career Highlights:
 • Built an AI-powered meeting assistant application that automatically generated summaries and action items from meetings using Ruby on Rails and LLM integration • Reduced cloud costs by 15% while improving application performance through strategic service migration • Developed comprehensive web applications for enterprise clients with complex business requirements • Implemented micro-services architecture for improved scalability and reliability • Twice recognised with Cultural Awards for efficiency and nurturing talent
