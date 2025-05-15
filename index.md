@@ -9,9 +9,10 @@ Welcome to my personal website.
 
 ## Projects
 
-- Ruby on Rails - [Repositories List App]([https://github.com/Anusha1401/repo_list)])
-- React - [Qr code generator]([https://github.com/Anusha1401/qr-code-generator])
-- Ruby on Rails - [UK phone number validator]([https://github.com/Anusha1401/mobile_number_formatter)
+- **Ruby on Rails** – [Repositories List App](https://github.com/Anusha1401/repo_list)
+- **React** – [QR Code Generator](https://github.com/Anusha1401/qr-code-generator)
+- **Ruby on Rails** – [UK Phone Number Validator](https://github.com/Anusha1401/mobile_number_formatter)
+
 
 ## About Me
 
