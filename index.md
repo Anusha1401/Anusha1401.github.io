@@ -3,14 +3,15 @@ layout: default
 title: Welcome
 ---
 
-# Hello! I'm [Your Name]
+# Hello! I'm Anusha Shetty
 
 Welcome to my personal website.
 
 ## Projects
 
-- [Project One](https://github.com/yourusername/project1)
-- [Project Two](https://github.com/yourusername/project2)
+- Ruby on Rails - [Repositories List App]([https://github.com/yourusername/project1](https://github.com/Anusha1401/repo_list))
+- React - [Qr code generator]([https://github.com/yourusername/project2](https://github.com/Anusha1401/qr-code-generator))
+- Ruby on Rails - [UK phone number validator]([https://github.com/Anusha1401/mobile_number_formatter))
 
 ## About Me
 
