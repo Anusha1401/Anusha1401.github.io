@@ -19,6 +19,10 @@ Senior Software Engineer with 6.5+ years of experience specializing in Ruby on R
 Throughout my career, I've focused on delivering high-quality code while solving complex technical challenges. My expertise spans the full development lifecycle – from architecture design and implementation to testing, deployment, and maintenance.
 
 Core Technical Strengths:
+- **Backend:** Ruby on Rails, RESTful APIs, PostgreSQL
+- **Frontend:** Angular, AngularJS, JavaScript, CSS, HTML
+- **Frameworks & Tools:** Bootstrap, Git, GitHub, Webpack
+- **Others:** MVC architecture, JSON APIs, Heroku, Agile workflows
 • Ruby on Rails application development in micro-services architecture • AI integration and LLM implementation for intelligent applications • Full-stack development with Angular, JavaScript, and TypeScript • Cloud infrastructure implementation on AWS and Azure • Database optimisation with PostgreSQL and MySQL • Containerisation with Docker and orchestration with Kubernetes
 
 Career Highlights:
