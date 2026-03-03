@@ -95,5 +95,6 @@ I’m currently seeking **Senior Software Engineer** opportunities in **Californ
 
 When I’m not coding, I enjoy playing indoor games. I’m friendly by nature and enjoy collaborating closely with teammates, sharing knowledge, and helping wherever I can.
 
+Lately, I’ve also been exploring **Agentic AI** and experimenting with hands-on agentic workflows using **n8n** for automation. I enjoy tinkering with autonomous agents and seeing how they can simplify real-world tasks and workflows.
 
 Let’s connect if you’re looking for a senior engineer who values clean code, thoughtful design, and strong collaboration.
