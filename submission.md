@@ -1,9 +1,10 @@
 # Submission
-
-## Overview
+---
 The project that I worked earlier that I'm very proud of is 'Eric.ai', with the company 'Combine ai'
 
-For a non-technical audience
+## Backend Migration: Python -> Ruby, Claude -> openAI 
+
+**For a non-technical audience**
 I worked on Eric AI as part of a small engineering team building an AI-powered system that connects Microsoft services and large language models (including OpenAI’s GPT) to deliver a simple and reliable user experience.
 
 A major responsibility I owned was leading a full migration of a core backend system from Python to Ruby. This was a high-impact change that required careful coordination to ensure the product continued running smoothly without disruption. I worked closely with multiple stakeholders across design, product, and analytics teams to ensure the migration aligned with user needs, business priorities, and expected outcomes.
@@ -12,11 +13,8 @@ As part of this work, we also migrated from an older Anthropic Claude-based setu
 
 This project required strong cross-functional communication, end-to-end ownership from planning through execution, and delivering changes safely in a production system. I was recognized for efficiency and successful delivery of the migration work.
 
-
-For a technical peer
-
-## Backend Migration: Python -> Ruby, Claude -> openAI 
-
+---
+**For a technical peer**
 I led a full migration of a core backend service from Python to Ruby, aligning it with the rest of the backend stack and improving long-term maintainability. This involved building out the new service while making sure it stayed compatible with existing systems and external integrations.
 
 One of the harder parts was making sure nothing broke during the transition. I had to carefully validate that both versions behaved the same, roll things out in stages, and keep production stable throughout the process while coordinating changes across dependent services.
