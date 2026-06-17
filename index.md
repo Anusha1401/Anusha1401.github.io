@@ -14,7 +14,13 @@ Welcome to my personal website. I’m a Senior Software Engineer specializing in
 - **Ruby on Rails** – [Repositories List App](https://github.com/Anusha1401/repo_list)
 - **Ruby on Rails** – [Blood Sample ID generator](https://github.com/Anusha1401/id_generator)
 - **Ruby on Rails** – [UK Phone Number Validator](https://github.com/Anusha1401/mobile_number_formatter)
-- **React** – [QR Code Generator](https://github.com/Anusha1401/qr-code-generator)  
+- **React** – [QR Code Generator](https://github.com/Anusha1401/qr-code-generator)
+
+---
+
+## System Design
+
+- **System Design** – [Handling Concurrency in an ERP Ordering System](./NETSUITE_CONCURRENCY_DESIGN)
 
 ---
 

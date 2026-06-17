@@ -1,3 +1,8 @@
+---
+layout: default
+title: Handling Concurrency in Odeko's Ordering System
+---
+
 # Handling Concurrency in Odeko's Ordering System
 
 ## Context
