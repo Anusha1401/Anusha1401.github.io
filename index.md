@@ -20,7 +20,7 @@ Welcome to my personal website. I’m a Senior Software Engineer specializing in
 
 ## System Design
 
-- **System Design** – [Handling Concurrency in an ERP Ordering System](./NETSUITE_CONCURRENCY_DESIGN)
+- **System Design** – [Handling Concurrency in an ERP Ordering System](./NETSUITE_CONCURRENCY_DESIGN)  
 
 ---
 

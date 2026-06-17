@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Handling Concurrency in Odeko's Ordering System
+title: Handling Concurrency in an ERP Ordering System
 ---
 
-# Handling Concurrency in Odeko's Ordering System
+# Handling Concurrency in an ERP Ordering System
 
 ## Context
 
-Cafe owner customers order supplies through Odeko's **Supply Portal**. Orders placed before a daily cutoff are sent to **NetSuite** (our third-party ERP) for immediate fulfillment — getting supplies to customers overnight. Orders after the cutoff are queued for the next day.
+Cafe owner customers order supplies through the company's **Supply Portal**. Orders placed before a daily cutoff are sent to **NetSuite** (our third-party ERP) for immediate fulfillment — getting supplies to customers overnight. Orders after the cutoff are queued for the next day.
 
 NetSuite handles key business functions across multiple microservices:
 
