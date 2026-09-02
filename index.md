@@ -7,34 +7,40 @@ title: Welcome
 
 Welcome to my personal website. I’m a Senior Software Engineer specializing in Ruby on Rails, full-stack development, and AI-powered applications.
 
----
+<div class="sidebar-links">
+  <h2>Useful Links</h2>
 
-## Useful Links
+  <h3>Ruby on Rails</h3>
+  <ul>
+    <li><a href="https://guides.rubyonrails.org">Rails Guides</a></li>
+    <li><a href="https://api.rubyonrails.org">Rails API Documentation</a></li>
+    <li><a href="https://ruby-doc.org">Ruby Documentation</a></li>
+    <li><a href="https://rubygems.org">RubyGems</a></li>
+  </ul>
 
-### Ruby on Rails
-- [Rails Guides](https://guides.rubyonrails.org)
-- [Rails API Documentation](https://api.rubyonrails.org)
-- [Ruby Documentation](https://ruby-doc.org)
-- [RubyGems](https://rubygems.org)
+  <h3>Security</h3>
+  <ul>
+    <li><a href="https://owasp.org/www-project-top-ten/">OWASP Top 10</a></li>
+    <li><a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">CISA KEV</a></li>
+    <li><a href="https://nvd.nist.gov">NVD</a></li>
+    <li><a href="https://rubysec.com">RubySec Advisories</a></li>
+  </ul>
 
-### Security
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
-- [CISA Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-- [National Vulnerability Database (NVD)](https://nvd.nist.gov)
-- [RubySec Security Advisories](https://rubysec.com)
+  <h3>AI-Assisted Dev</h3>
+  <ul>
+    <li><a href="https://docs.anthropic.com">Claude Documentation</a></li>
+    <li><a href="https://github.com/features/copilot">GitHub Copilot</a></li>
+    <li><a href="https://platform.openai.com/docs">OpenAI Docs</a></li>
+  </ul>
 
-### AI-Assisted Development
-- [Claude Documentation](https://docs.anthropic.com)
-- [GitHub Copilot](https://github.com/features/copilot)
-- [OpenAI Developer Documentation](https://platform.openai.com/docs)
-
-### APIs & Integrations
-- [Shopify Developer Documentation](https://shopify.dev/docs)
-- [Postman](https://www.postman.com)
-- [Docker](https://docs.docker.com)
-- [GitHub](https://github.com)
-
----
+  <h3>APIs &amp; Integrations</h3>
+  <ul>
+    <li><a href="https://shopify.dev/docs">Shopify Dev Docs</a></li>
+    <li><a href="https://www.postman.com">Postman</a></li>
+    <li><a href="https://docs.docker.com">Docker</a></li>
+    <li><a href="https://github.com">GitHub</a></li>
+  </ul>
+</div>
 
 ## Projects
 
