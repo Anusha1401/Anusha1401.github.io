@@ -9,6 +9,33 @@ Welcome to my personal website. I’m a Senior Software Engineer specializing in
 
 ---
 
+## Useful Links
+
+### Ruby on Rails
+- [Rails Guides](https://guides.rubyonrails.org)
+- [Rails API Documentation](https://api.rubyonrails.org)
+- [Ruby Documentation](https://ruby-doc.org)
+- [RubyGems](https://rubygems.org)
+
+### Security
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [CISA Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- [National Vulnerability Database (NVD)](https://nvd.nist.gov)
+- [RubySec Security Advisories](https://rubysec.com)
+
+### AI-Assisted Development
+- [Claude Documentation](https://docs.anthropic.com)
+- [GitHub Copilot](https://github.com/features/copilot)
+- [OpenAI Developer Documentation](https://platform.openai.com/docs)
+
+### APIs & Integrations
+- [Shopify Developer Documentation](https://shopify.dev/docs)
+- [Postman](https://www.postman.com)
+- [Docker](https://docs.docker.com)
+- [GitHub](https://github.com)
+
+---
+
 ## Projects
 
 - **Ruby on Rails** – [Repositories List App](https://github.com/Anusha1401/repo_list)
