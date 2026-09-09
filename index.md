@@ -7,6 +7,8 @@ title: Welcome
 
 Welcome to my personal website. I’m a Senior Software Engineer specializing in Ruby on Rails, full-stack development, and AI-powered applications.
 
+✨ [About Me Beyond Code](./beyond-code) — my journey from India to London to California, and what I love outside work.
+
 <div class="sidebar-links">
   <h2>Useful Links</h2>
 
