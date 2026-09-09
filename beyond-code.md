@@ -17,15 +17,17 @@ Life is more than just pull requests and deployments. Here's a little window int
     <div class="timeline-dot">📍</div>
     <div class="timeline-body">
       <h2>India — Where It All Began</h2>
-      <div class="photo-grid">
+      <div class="photo-row-small">
         <div class="photo-item">
           <img src="./assets/images/id.png" alt="My Work ID" />
           <p class="photo-caption">My Work ID</p>
         </div>
         <div class="photo-item">
-          <img src="./assets/images/OFH.HEIC" alt="My Office" />
+          <img src="./assets/images/robosoft.HEIC" alt="My Office" />
           <p class="photo-caption">My Office</p>
         </div>
+      </div>
+      <div class="photo-row-team">
         <div class="photo-item">
           <img src="./assets/images/myteam.JPG" alt="My Team" />
           <p class="photo-caption">My Team</p>
