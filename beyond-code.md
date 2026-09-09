@@ -46,6 +46,7 @@ Life is more than just pull requests and deployments. Here's a little window int
       <div class="photo-placeholder">
         <span>🖼️</span>
         <p>Add a wedding / London photo</p>
+        <img src="./assets/images/OFH.jpg" alt="My Team" />
         <small>Replace this placeholder by adding an image to assets/images/</small>
       </div>
       <p>
@@ -62,7 +63,7 @@ Life is more than just pull requests and deployments. Here's a little window int
       <h2>California — The Next Adventure</h2>
       <div class="photo-placeholder">
         <span>🖼️</span>
-        <p>Add a photo from California / the US</p>
+        <p><img src="./assets/images/california.png" alt="My Team" /></p>
         <small>Replace this placeholder by adding an image to assets/images/</small>
       </div>
       <p>
@@ -90,6 +91,8 @@ Life is more than just pull requests and deployments. Here's a little window int
         <div class="passion-card">
           <span class="passion-icon">🎨</span>
           <h3>Drawing</h3>
+          <img src="./assets/images/anime1.png" alt="My Team" />
+          <img src="./assets/images/medrawing.png" alt="My Team" />
           <p>Sketching and creating art — a quiet, creative outlet that keeps me grounded and inspired.</p>
         </div>
       </div>
